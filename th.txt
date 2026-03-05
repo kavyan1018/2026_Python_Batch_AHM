@@ -1,0 +1,35 @@
+statically | dynamically
+
+
+statically : We have to provide the data types of the variables : c, cpp, java 
+dynamically : We dont need to provide data types : python , js
+
+
+game , desktop app, web app[dajango, fastapi], data science
+file --> file_name.py
+
+data types :
+    int 
+    float 
+    bol
+    str
+    double
+    
+
+   operands : that means the values on which the operators will work on
+
+
+operators : 
+
+    -> binery op : min 2 operands
+    -> unery op : requires only 1 operand : ++ , -- , a++ , a--, --a,  ++a 
+    -> ternary op : requires 3 operands : a?b:c
+    -> arithmetic op : + , - , * , / , %
+    -> assignment op : = , += , -= , *= , /= , %=
+    -> comparison op : == , != , > , < , >= , <=
+    -> relational op : && , || , !
+    -> logical op : && , || , !
+    
+    
+    -> membership op : in , not in
+    -> identity op : is , is not
