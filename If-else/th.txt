@@ -1,0 +1,13 @@
+Conditional Statements
+
+            1. if
+            2. if - else 
+            3. elif 
+
+
+    syntax :
+
+            if condition :  
+                statment 
+            else :
+                statment  
