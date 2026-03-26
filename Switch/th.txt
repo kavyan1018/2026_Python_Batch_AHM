@@ -1,0 +1,53 @@
+switch case -> c / c++ / java / c# / javascript 
+    -> from the multiple options, select the one that matches the value of the variable
+
+
+switch (experience){
+    case 0:
+        print("No experience")
+        break
+    case 1:
+        print("1 year of experience")
+        break
+    case 2:
+        print("2 years of experience")
+        break
+    default:
+        print("More than 2 years of experience")
+}
+
+py ->  match case
+
+match choice:
+    case 0:
+        print("No experience")
+    case 1:
+        print("1 year of experience")
+    case 2:
+        print("2 years of experience")
+    
+    case _:
+        print("wrong choice !")
+
+
+------------- netsed ---------------------
+
+    match choice:
+    case 1:
+        print("No experience")
+
+            choice = int(input("Enter your experience in years: "))
+
+            match choice:
+             case 1:
+                print("No experience")  
+
+
+
+    case 2:
+        print("1 year of experience")
+    case 3:
+        print("2 years of experience")
+    
+    case _:
+        print("wrong choice !")
