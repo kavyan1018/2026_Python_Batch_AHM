@@ -1,6 +1,9 @@
+
+print("1..Gujarati")
+print("2..Punjabi")
+print("3..Rajasthani")
+
 x =  int(input("Enter a number: "))
-
-
 match x:
     case 1:
         print("You Selected Gujarati")
