@@ -1,0 +1,13 @@
+loops in py 
+    -> loops are used to repeat a block of code multiple times
+    -> there are two types of loops in python 
+        1. for loop 
+            syntax :
+                for i in range(5):   -> 0 1 2 3 4
+                    # code to be executed
+
+        2. while loop       
+            syntax :
+                i = 1
+                while i <= 10:
+                    # code to be executed
