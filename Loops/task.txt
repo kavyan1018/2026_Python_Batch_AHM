@@ -1,0 +1,16 @@
+10. check number is prime or not. 
+	prime -> 2 3 5 7
+	not prime -> 4 6 9...                                                      
+11. Find factorial of a number. ex. 5-> 5*4*3*2*1=120 
+12. Find lcm of two number. ( 12 , 6 --> lcm=12)
+13. Find gcd of two number. ( 4 , 5 --> gdc = 1    5 , 10 --> gcd=5)
+
+
+14. Check number is palindrom or not.
+
+	ex. 3452 -> not palindrom            
+		11211 -> palindrom
+
+15. print number with spelling. ( 1283 - one two eight three   , 523 -> five two three)
+16. print Fibonacci series.
+17. take two numbers from user(Starting range , ending range) and print allprime number between the range
