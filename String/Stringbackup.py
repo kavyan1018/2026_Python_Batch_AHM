@@ -18,3 +18,8 @@ for i in name:
     
 
 # length of the string
+print("Length of the string is: ", len(name))
+
+
+print(name.upper())
+print(name.lower())
