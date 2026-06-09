@@ -1,0 +1,6 @@
+tuple is also built in data type -> store a collection of items.
+
+-> tuples are immutable -> cannot be changed after creation.
+-> allows duplicate values.
+-> can store the different data types.
+-> ordered collection of items -> maintains the order of insertion.
