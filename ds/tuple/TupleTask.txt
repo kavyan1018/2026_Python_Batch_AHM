@@ -1,0 +1,140 @@
+==============================
+PYTHON TUPLE PRACTICE TASKS
+==============================
+
+Task 1: Print All Elements
+--------------------------
+Create a tuple of 5 numbers and print each element using a loop.
+
+Example:
+t = (10, 20, 30, 40, 50)
+
+Output:
+10
+20
+30
+40
+50
+
+
+Task 2: Find Largest and Smallest Element
+-----------------------------------------
+Create a tuple of numbers and find:
+1. Largest number
+2. Smallest number
+
+Example:
+t = (15, 45, 10, 80, 25)
+
+Output:
+Largest = 80
+Smallest = 10
+
+
+Task 3: Count Occurrences
+-------------------------
+Create a tuple and count how many times a specific value appears.
+
+Example:
+t = (10, 20, 10, 30, 10, 40)
+
+Find count of 10.
+
+Output:
+3
+
+
+Task 4: Modify a Tuple Using Type Casting
+-----------------------------------------
+Given:
+
+data = ("ram", "shyam", "hari", "gopal")
+
+Change "hari" to "krishna" using type casting.
+
+Expected Output:
+('ram', 'shyam', 'krishna', 'gopal')
+
+
+Task 5: Reverse a Tuple
+-----------------------
+Create a tuple and print it in reverse order using slicing.
+
+Example:
+t = (1, 2, 3, 4, 5)
+
+Output:
+(5, 4, 3, 2, 1)
+
+
+Task 6: Tuple Unpacking
+-----------------------
+Create a tuple containing student information.
+
+Example:
+student = ("Amit", 21, "CSE")
+
+Unpack the tuple into variables and print:
+
+Output:
+Name: Amit
+Age: 21
+Course: CSE
+
+
+Task 7: Merge Two Tuples
+------------------------
+Create two tuples and merge them.
+
+Example:
+t1 = (1, 2, 3)
+t2 = (4, 5, 6)
+
+Output:
+(1, 2, 3, 4, 5, 6)
+
+
+Bonus Task
+-----------
+Create a tuple:
+
+t = (10, 20, 30, 40, 50)
+
+Using unpacking:
+
+first, *middle, last = t
+
+Output:
+First: 10
+Middle: [20, 30, 40]
+Last: 50
+
+
+Hard Task 1
+-----------
+Create a tuple of 10 numbers.
+Print only the even numbers from the tuple.
+
+Example:
+(1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
+
+Output:
+2
+4
+6
+8
+10
+
+
+Hard Task 2
+-----------
+Create two tuples.
+Find the common elements between them.
+
+Example:
+t1 = (10, 20, 30, 40)
+t2 = (30, 40, 50, 60)
+
+Output:
+30
+40
