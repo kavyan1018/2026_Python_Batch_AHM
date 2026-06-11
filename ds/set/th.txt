@@ -1,0 +1,4 @@
+-> collection of unique elements
+-> is unordered
+-> does not allow duplicates values
+-> mutable (can be changed after creation)
