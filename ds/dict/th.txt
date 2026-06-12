@@ -1,0 +1,8 @@
+key-values of pair 
+
+stu = {
+    "name" : "Kavyan",
+    "age" : 22,
+    "course" : "Python",
+    "Fees" : 10000
+}
