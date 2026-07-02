@@ -1,0 +1,4 @@
+a module is a python file (.py) -> that contains variables, functions, and classes that can be imported and used in other Python files. 
+
+
+improt file_name
