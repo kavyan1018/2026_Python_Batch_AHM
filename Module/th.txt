@@ -1,4 +1,17 @@
 a module is a python file (.py) -> that contains variables, functions, and classes that can be imported and used in other Python files. 
 
 
-improt file_name
+import file_name   ->  User_defined module
+
+
+
+there is total 2 types of modules we have in py 
+        -> Built-in modules      : already available in python we can just use it from py
+        -> User-defined modules  : created by the user to use in their own programs.
+
+
+
+
+Built-in modules: 
+    -> math
+    -> random
