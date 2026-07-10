@@ -1,0 +1,34 @@
+we use file for storing data permanently. 
+
+    in py it give us built-in functions to read and write files. 
+
+            - open file 
+            - Read from file 
+            - Write to file 
+            - Append to file
+            - Close file
+
+
+
+
+        -> open() : function -> file creation and opening file in different modes.
+        -> close() : function -> close the file after reading or writing.
+
+        -> r, w, a, r+, w+, a+ : modes of opening file.
+
+        r+ -> read and write mode.
+                - open an existing file.
+                - can read and write data to the file.
+                - cant delete the existing data in the file.
+
+
+        w+ -> write and read mode.
+                - open an existing file or create a new file.
+                - can read and write data to the file.
+                - can delete the existing data in the file. 
+
+
+        a+ -> append and read mode.
+                - open an existing file or create a new file.
+                - can read and write data to the file.
+                - cant delete the existing data in the file.
