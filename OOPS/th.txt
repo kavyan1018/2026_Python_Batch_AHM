@@ -1,0 +1,15 @@
+public
+    -> any one can use it
+
+ and 
+
+private 
+    -> only the class itself can use it
+
+
+why we use the constructors in object-oriented programming?
+ -> constructor called when an object of the class is created
+
+        1. default constructor
+        2. parameterized constructor
+        3. copy constructor
