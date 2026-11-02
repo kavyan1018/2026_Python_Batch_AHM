@@ -1,0 +1,24 @@
+Polymorphism means one name with multiple forms.
+
+
+poly -> Many
+Morph -> Froms 
+
+
+-> the same method or oprator can perform different tasks based on the object or data. 
+
+
+clac -> perform different operations based on the data type or object.
+camera -> capture images and videos
+
+
+----------------------
+
+types -
+    1. Method Overloading
+        -> means having multiple methods with the same name but different parameters.
+
+
+    2. Method Overriding
+        -> when a child class has the same method as defined in the parent class it is known as method overriding.
+    3. operator Overloading
