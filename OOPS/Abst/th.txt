@@ -1,0 +1,41 @@
+Abstraction means hiding internal implementation details and showing only essential functionality to the user.
+
+
+                    atm 
+                     |
+                inser the card 
+                     |
+                Enter the PIN
+                     |
+                Select the transaction
+                     |
+                perform the transaction
+                     |
+                Cash withdrawal
+                     |
+                Receive cash
+                     |
+                    end 
+
+
+you dont know how the ATM works internally -> atm  communicates with the bank server to verify the card and PIN, checks the account balance, processes the transaction, and dispenses cash. 
+
+
+                Cash 
+
+this is called abstraction
+
+
+
+car 
+    -> pess the accelerator
+    -> car speeds up
+    -> u dont know how the car works internally -> car communicates with the engine, fuel system, and transmission to increase speed.
+
+
+    python 
+        -> ABC module
+        -> abstract base classes
+
+        ABC - Create an abstract class
+        @abstractmethod - Create an abstract method
